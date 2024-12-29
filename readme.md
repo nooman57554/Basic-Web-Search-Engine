@@ -29,7 +29,7 @@ This project is a basic web search engine that crawls web pages, calculates Page
 ├── web_crawler.py      # Web crawling and data storage
 ├── pagerank.py         # PageRank calculation
 ├── websearch.py        # Flask application for search engine
-├── templates/          # HTML templates
+├── static/          # HTML templates
 │   ├── homepage.html   # Homepage for search input
 │   └── results.html    # Displays search results
 │   └── styles.css      # CSS for styling
